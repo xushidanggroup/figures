@@ -1,22 +1,22 @@
 ---
 # Display name
 title: |
-  Yifei Han
-  韩逸飞
+  Mengting Guan
+  管梦婷
 
 # Full name (for SEO)
-first_name: Yifei
-last_name: Han
+first_name: Mengting
+last_name: Guan
 
 # Username (this should match the folder name)
 authors:
-  - 韩逸飞
+  - 管梦婷
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 25 Master's Student in Biomedical Engineering
+role: 24 Master's Student in Biomedical Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -24,22 +24,22 @@ organizations:
     url: 'https://www.scut.edu.cn/new/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include chemistry synthesis, chemical modifications of RNA and proteins, machine learning and deep learning.
+bio: My research interests include Drug Discovery, Deep Learning, Machine Learning, Biomedical material.
 
 interests:
-  - Chemistry Synthesis
-  - Chemical Modifications
-  - Machine Learning
+  - Drug Discovery
   - Deep Learning
+  - Machine Learning
+  - Biomedical material
 
 education:
   courses:
-    - course: MEng in Chemistry
+    - course: MEng in Pharmacy
       institution: South China University of Techology
-      year: Currently Enrolled (2023 - Present)
-    - course: BEng in Applied Chemistry
-      institution: Guangdong University of Technology
-      year: 2023
+      year: Currently Enrolled (2024 - Present)
+    - course: BEng in Biomedical Engneering
+      institution: South China University of Techology
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:Yinghao612@gmail.com'
+    link: 'jingchengmo@foxmail.com'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,4 +64,4 @@ user_groups:
   - Graduate Students
 ---
 
-Yifei is a Master's student in Chemistry at the Xu Group, having joined in 2023. He is currently focused on the chemical modifications of RNA and proteins with the aim of making mRNA translation more efficient, stable, and controllable and making protein-protein interactions more controllable and monitorable through chemical modifications. He is also exploring how to use machine learning and deep learning to study such chemical modifications. 
+Mengting is a Master’s student in Pharmacy at the Xu Group, having joined in 2024. His research focuses on the use of machine learning to improve organic reactivity and drug discovery. He has a keen interest in exploring how artificial intelligence can speed up experimental procedures and works on optimising drug properties through innovative computational approaches as well.
